@@ -1,0 +1,27 @@
+html {
+    background-image: url("./shibainu.jpeg");
+}
+div {
+    border: 1px solid blue;
+    padding: 25px;
+    text-shadow: 2px 2px aqua;
+    background-color: transparent;
+}
+
+img {
+    height: 250px;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 1.5rem
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
